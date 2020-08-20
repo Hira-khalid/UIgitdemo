@@ -14,5 +14,16 @@
         
 ### Styling Text:
         
-  **Bold** or use this for __ Bold __
-  *Italic* or use this for -italic-
+  **Bold** or use this for __Bold__
+  *Italic* or use this for _italic_
+  ~~Strikethrough~~
+  **Bold and _Nested Italic_*
+  ***All bold & Italic***
+  
+### Quoting Text:
+>According to me
+               "Life is too short to take revenge jest stay happy and live ur life and let others too"
+   
+
+  
+  
