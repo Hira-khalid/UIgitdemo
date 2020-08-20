@@ -14,15 +14,15 @@
         
 ### Styling Text:
         
-  **Bold** or use this for __Bold__
-  *Italic* or use this for _italic_
-  ~~Strikethrough~~
-  **Bold and _Nested Italic_*
-  ***All bold & Italic***
+ - **Bold** or use this for __Bold__
+ - *Italic* or use this for _italic_
+ - ~~Strikethrough~~
+ - **Bold and _Nested Italic_*
+ - ***All bold & Italic***
   
 ### Quoting Text:
->According to me
-               "Life is too short to take revenge jest stay happy and live ur life and let others too"
+> According to me:
+"Life is too short to take revenge jest stay happy and live ur life and let others too"
    
 ### Quoting Code:
 
@@ -50,10 +50,10 @@ There are two types of lists:
 ### Task List:
 
 Topics in Quarter which are Completed:
-        [x] Intro to AI
-        [x] Intro to Python
-        [x] Advance Python
-        [x] Git
-        [ ] Preperation for test about Microsoft
+-[x] Intro to AI
+-[x] Intro to Python
+-[x] Advance Python
+-[x] Git
+-[ ] Preperation for test about Microsoft
   
   
