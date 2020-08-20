@@ -50,10 +50,10 @@ There are two types of lists:
 ### Task List:
 
 Topics in Quarter which are Completed:
--[x] Intro to AI
--[x] Intro to Python
--[x] Advance Python
--[x] Git
--[ ] Preperation for test about Microsoft
+- [x] Intro to AI
+- [x] Intro to Python
+- [x] Advance Python
+- [x] Git
+- [ ] Preperation for test about Microsoft
   
   
