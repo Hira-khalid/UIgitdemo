@@ -9,5 +9,10 @@
 7. **Nested List**
 8. **Task List**
 
-###Headings:
+### Headings:
         To create a heading, add one to six `#` symbols before your heading text
+        
+### Styling Text:
+        
+        **Bold** or use this for __Bold__
+        *Italic* or use this for -italic-
