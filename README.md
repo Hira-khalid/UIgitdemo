@@ -14,5 +14,5 @@
         
 ### Styling Text:
         
-        ** Bold ** or use this for __ Bold __
-        * Italic * or use this for - italic -
+  **Bold ** or use this for __ Bold __
+ * Italic * or use this for - italic -
