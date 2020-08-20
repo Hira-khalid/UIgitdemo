@@ -24,6 +24,36 @@
 >According to me
                "Life is too short to take revenge jest stay happy and live ur life and let others too"
    
+### Quoting Code:
 
+```
+git stash
+git stash save newUpdate
+git stash apply stash@<stash-index>
+```
+
+### Links:
+
+[Github](https://www.google.com/)
+
+### Nested Lists:
+1. First we apply headings to document
+   - `#` is uesd to put somthing in heading
+
+### Lists:
+There are two types of lists:
+1. Order List
+   - It will show numbers
+2. Un-Order List
+   - It will show bullits
+
+### Task List:
+
+Topics in Quarter which are Completed:
+        [x] Intro to AI
+        [x] Intro to Python
+        [x] Advance Python
+        [x] Git
+        [ ] Preperation for test about Microsoft
   
   
